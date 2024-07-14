@@ -2,6 +2,8 @@
 
 `d3m0n` is a hardware tools collection from [4re5 group](https://github.com/4re5group) team
 
+These products are made to escape from censorship and mass spying
+
 # Objectives
 - [x] [d3m0n cellular phones](https://github.com/d3m0n-project/d3m0n_c1)
 - [ ] d3m0n smart watches
