@@ -4,6 +4,6 @@
 
 # Objectives
 - [x] [d3m0n cellular phones](https://github.com/d3m0n-project/d3m0n_c1)
-- [ ] d3m0n 's' family — smart watches
-- [ ] d3m0n 't' family — tv devices
-- [ ] d3m0n 'g' family — gaming consoles
+- [ ] d3m0n smart watches
+- [ ] d3m0n tv devices
+- [ ] d3m0n gaming consoles
